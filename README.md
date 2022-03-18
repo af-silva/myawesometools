@@ -35,3 +35,6 @@ List of useful tools.
 - [refactoring.guru](https://refactoring.guru/)
 - [cs50](https://cs50.harvard.edu)
 
+### Documentation
+- [Documentation sourced from windows help files on the web](https://documentation.help/)
+
