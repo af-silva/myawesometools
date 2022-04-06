@@ -26,6 +26,8 @@ List of useful tools.
 - [Ghostwriter](https://wereturtle.github.io/ghostwriter/)
 - [Typora (beta)](https://typora.io)
 - [GAC Manager](https://github.com/dwmkerr/gacmanager)
+- [BloomRPC](https://github.com/bloomrpc/bloomrpc)
+- [Fork](https://git-fork.com/)
 
 
 ## Code Related Learning
